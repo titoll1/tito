@@ -1,0 +1,11 @@
+{
+    "categories": [
+        "Support",
+        "Work"
+    ],
+    "ticket_format": "ticket-{user}",
+    "ticket_category": "1560082118820892803",
+    "support_role": "",
+    "ticket_message": "Welcome to your ticket! Support will be with you shortly.",
+    "panel_message_id": 1560202622382776361
+}

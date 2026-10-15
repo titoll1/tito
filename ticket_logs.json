@@ -1,0 +1,42 @@
+[
+    {
+        "time": "05:47:31",
+        "event": "\ud83d\ude80 START",
+        "message": "Bot is online and ready!"
+    },
+    {
+        "time": "05:52:39",
+        "event": "\ud83d\udd12 CLOSE",
+        "message": "dev.ing closed ticket ticket-001"
+    },
+    {
+        "time": "05:54:11",
+        "event": "\ud83d\udd12 CLOSE",
+        "message": "dev.ing closed ticket ticket-002"
+    },
+    {
+        "time": "06:58:54",
+        "event": "\ud83d\ude80 START",
+        "message": "Bot is online and ready!"
+    },
+    {
+        "time": "09:41:02",
+        "event": "\ud83d\ude80 START",
+        "message": "Bot is online and ready!"
+    },
+    {
+        "time": "12:48:35",
+        "event": "\ud83d\ude80 START",
+        "message": "Bot is online and ready!"
+    },
+    {
+        "time": "17:36:09",
+        "event": "\ud83d\ude80 START",
+        "message": "Bot is online and ready!"
+    },
+    {
+        "time": "17:56:14",
+        "event": "\ud83d\ude80 START",
+        "message": "Bot is online and ready!"
+    }
+]
