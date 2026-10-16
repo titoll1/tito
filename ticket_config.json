@@ -1,4 +1,4 @@
-{
+<escape>{
     "categories": [
         "Support",
         "Work"
@@ -7,5 +7,6 @@
     "ticket_category": "1560082118820892803",
     "support_role": "",
     "ticket_message": "Welcome to your ticket! Support will be with you shortly.",
-    "panel_message_id": 1560202622382776361
-}
+    "panel_message_id": 1560202622382776361,
+    "work_review_channel": "1560300669456621700"
+}</escape>
